@@ -1,1 +1,0 @@
-# tubesoft-test-samuel-cuevas
