@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in App.js should Component <App/> correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="time"
+  >
+    <div
+      className="chronometer"
+    >
+      <Counter
+        time={
+          Object {
+            "h": 0,
+            "m": 0,
+            "ms": 0,
+            "s": 0,
+          }
+        }
+      />
+      <Buttons
+        pause={[Function]}
+        resume={[Function]}
+        start={[Function]}
+        status={0}
+        stop={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tests in App.js should Component <App/> correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="time"
+  >
+    <div
+      className="chronometer"
+    >
+      <Counter
+        time={
+          Object {
+            "h": 0,
+            "m": 0,
+            "ms": 0,
+            "s": 0,
+          }
+        }
+      />
+      <Buttons
+        pause={[Function]}
+        resume={[Function]}
+        start={[Function]}
+        status={0}
+        stop={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;
