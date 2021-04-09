@@ -10,7 +10,7 @@ LABEL maintainer="samuel.cuevas.dev@gmail.com"
 RUN dism.exe /online /enable-feature /all /featurename:iis-webserver /NoRestart
 
 # Creates an HTML file and adds content to this file.
-RUN echo "Hello World - Dockerfile" > P:\Proyectos\tubesoft-test\Frontend
+RUN echo "Hello World - Dockerfile" > samuelcuevas-tubesoft-test-samuel-cuevas
 
 # Sets a command or process that will run each time a container is run from the new image.
 CMD [ "cmd" ]
